@@ -94,7 +94,7 @@
 </div>
 
 <div align="center">
-<h2>🌐 Socials 🌐</h2> Let's connect! I can always talk about tech and content.<br>
+<h2>🌐 Socials 🌐</h2> Let's connect an Talk . About tech and interesting things.<br>
 
 <a href="www.linkedin.com/in/abhinandhan-kj"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/@_ABHINANDHANKJ"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
