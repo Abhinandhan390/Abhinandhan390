@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey 👋 What's Up?
 
-<!--
-**Abhinandhan390/Abhinandhan390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abhinandhan and I write code.
 
-Here are some ideas to get you started:
+## 🚀 About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Undergraduate pursuing Engineering
+* 💻 Passionate about web development
+* 🌱 Currently learning and building real-world projects
+
+## 🛠️ Current Tech Stack 🛠️
+
+HTML5 CSS3 (Latest) Tailwind CSS JavaScript Node.js MySQL MongoDB VS Code Git GitHub
+
+## 📊 Gɪᴛʜᴜʙ Sᴛʀᴇᴀᴋ 📊
+
+<!-- Add your streak badge here -->
+
+## 📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈
+
+<!-- Add your contribution graph here -->
+
+## 🌐 Socials 🌐
+
+Let's connect! I’m always up for talking about tech 🚀
+
+* 📸 Instagram: https://instagram.com/_iyengarabhi
+* 🐦 Twitter (X): https://twitter.com/_ABHINANDHANKJ
+* 💼 LinkedIn: https://www.linkedin.com/in/abhinandhan-k-j
+* 💻 GitHub: https://github.com/Abhinandhan390
+* 🧑‍💻 CodePen: https://codepen.io/Abhi-Iyengar
+
+## ✍️ About Me
+
+I enjoy building websites, exploring new technologies, and improving my development skills every day 🚀
