@@ -26,13 +26,16 @@
 <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
 <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
+<img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
 
 <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss" />
 <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
 <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
 <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
 <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 
 
