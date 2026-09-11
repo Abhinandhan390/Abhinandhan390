@@ -105,21 +105,6 @@ A web-based project focused on building an interactive application experience.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Abhinandhan390&show_icons=true&theme=tokyonight&hide_border=true"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinandhan390&layout=compact&theme=tokyonight&hide_border=true"
-  height="180"
-/>
-
-</div>
 
 ---
 
@@ -136,16 +121,7 @@ A web-based project focused on building an interactive application experience.
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinandhan390&theme=tokyo-night&hide_border=true"
-  width="100%"
-/>
-
-</div>
 
 ---
 
@@ -316,7 +292,7 @@ alt="GitHub Streak"
 
 <div align="center">
 
-### 💡 Building • Learning • Shipping
+### 💡 Building • Learning 
 
 <br>
 
