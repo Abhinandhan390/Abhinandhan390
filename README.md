@@ -124,39 +124,6 @@ A web-based project focused on building an interactive application experience.
   alt="GitHub Streak"
 />
 
-</div>
-
----
-
-
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/abhinandhan-kj">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/_ABHINANDHANKJ">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Abhinandhan390">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Building, learning, and shipping."
-
-<img src="https://komarev.com/ghpvc/?username=Abhinandhan390&style=for-the-badge" />
 
 
 
