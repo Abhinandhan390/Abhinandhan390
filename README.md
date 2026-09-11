@@ -292,7 +292,7 @@ alt="GitHub Streak"
 
 <div align="center">
 
-### 💡 Building • Learning 
+### 💡 Building • Learning . Focusing 
 
 <br>
 
