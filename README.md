@@ -158,91 +158,10 @@ A web-based project focused on building an interactive application experience.
 
 <img src="https://komarev.com/ghpvc/?username=Abhinandhan390&style=for-the-badge" />
 
-</div>width="500"
+<
 />
 
-</div>
 
----
-
-## 🚀 About Me
-
-- 💻 Passionate about **Web Development & Backend Engineering**
-- 🌱 Currently learning and building **real-world projects**
-- 🤖 Interested in **Artificial Intelligence & RAG Systems**
-- 🎓 Information Science & Engineering undergraduate
-- 🧠 Always learning and improving my development skills
-- ⚡ I enjoy turning ideas into working applications
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c" height="45" alt="C">
-<img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++">
-<img src="https://skillicons.dev/icons?i=python" height="45" alt="Python">
-<img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript">
-<img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML">
-<img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS">
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js">
-<img src="https://skillicons.dev/icons?i=express" height="45" alt="Express.js">
-<img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB Atlas">
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML">
-<img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS">
-<img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS">
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git" height="45" alt="Git">
-<img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub">
-<img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code">
-<img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Vercel">
-<img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman">
-<img src="https://skillicons.dev/icons?i=codepen" height="45" alt="CodePen">
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 BIS Recommendation Engine
-
-AI-powered recommendation system designed around BIS standards and recommendations.
-
-**Tech:** Node.js • Express.js • MongoDB Atlas • RAG API
-
----
-
-### 🌦️ Weather Application
-
-A web application that provides weather information using an external weather API.
-
-**Tech:** HTML • CSS • JavaScript • REST API
-
----
-
-### 🎮 Pocketex
-
-An interactive web-based project.
-
-**Tech:** JavaScript • HTML • CSS
-
----
 
 
 
