@@ -244,36 +244,11 @@ An interactive web-based project.
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Abhinandhan390&show_icons=true&theme=tokyonight&hide_border=true"
-alt="GitHub Statistics"
-/>
-
-<br><br>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinandhan390&layout=compact&theme=tokyonight&hide_border=true"
-alt="Top Languages"
-/>
-
-</div>
 
 ---
 
-## 🔥 GitHub Streak
 
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com/?user=Abhinandhan390&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"
-/>
-
-</div>
 
 ---
 
