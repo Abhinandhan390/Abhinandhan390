@@ -81,6 +81,13 @@
 
 ## 🚀 Featured Projects
 
+
+### 🔐 Login & User Management
+
+A secure user authentication system with registration, login, password protection, and user management.
+
+**Tech:** Node.js • Express.js • MongoDB Atlas • JavaScript
+
 ### 🧠 BIS Recommendation Engine
 
 AI-powered recommendation system designed around BIS standards and recommendations.
